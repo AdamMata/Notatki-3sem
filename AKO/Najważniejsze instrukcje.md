@@ -169,3 +169,5 @@ np. `setc ax` "jeżeli carry, wpisz 1"
 
 ---
 # [[Instrukcje koprocesora]]
+
+# [[Rozkazy na blokach danych]]

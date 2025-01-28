@@ -5,4 +5,4 @@
 - [[grafy-Kubale.pdf#page=66|Christofides (Komiwojażer)]]
 - [[grafy-Kubale.pdf#page=102|Kolorowania grafów]]
 
-**Graf trudny** to taki, który stanowi kontrprzykład do poprawności algorytmu. (Algorytm zawsze się myli). **Graf dość trudny** (Slightly Hard Graph) to taki, dla którego algorytm może się pomylić.
+**Graf trudny** to taki, który stanowi kontrprzykład do poprawności algorytmu. ([[Algorytm]] zawsze się myli). **Graf dość trudny** (Slightly Hard Graph) to taki, dla którego algorytm może się pomylić.

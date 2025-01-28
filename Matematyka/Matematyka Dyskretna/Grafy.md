@@ -12,7 +12,10 @@ Każdy wierzchołek jest stopnia $3$.
 
 # Własności grafów
 ## Liczba chromatyczna $X$
+Czyli najmniejsza liczba kolorów którymi możemy wykonać [[Kolorowanie grafów]]
 ## Planarność
 ## Genus
 Minimalna ilość "mostów" które należy ustawić ponad krawędziami, by te się nie przecinały. 
 To nie jest to samo co minimalna ilość *przecięć* na płaszczyźnie (kilka krawędzi może przejść po moście).
+
+[[Algorytmy grafowe]]

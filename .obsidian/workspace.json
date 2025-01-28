@@ -8,103 +8,73 @@
         "type": "tabs",
         "children": [
           {
-            "id": "02da5e2292fffd19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matematyka/Analiza Matematyczna/Pochodne.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pochodne"
-            }
-          },
-          {
-            "id": "435b7294adf6d078",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contributing.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Contributing"
-            }
-          },
-          {
-            "id": "ecfffb7f7bf7013c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contributing.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Contributing"
-            }
-          },
-          {
             "id": "db5a86d7934ccf34",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "8dc37899b71ce185",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "AKO/Przerwanie systemowe.md",
+                "file": "AKO/Rozkazy na blokach danych.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Przerwanie systemowe"
+              "title": "Rozkazy na blokach danych"
             }
           },
           {
-            "id": "b919ef0453efbe76",
+            "id": "dfc0accbf97cfffc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Matematyka/Analiza Matematyczna/Slajdy/AM_03_RachunekCalkowy.pdf"
+                "file": "AKO/Najważniejsze instrukcje.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "AM_03_RachunekCalkowy"
+              "icon": "lucide-file",
+              "title": "Najważniejsze instrukcje"
             }
           },
           {
-            "id": "8c799311156296a6",
+            "id": "e4c792458c754324",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "Matematyka/Analiza Matematyczna/Slajdy/AM_04_SzeregiLiczbowe.pdf"
+                "file": "AKO/Dyrektywy alokacji.png"
               },
-              "icon": "lucide-file-text",
-              "title": "AM_04_SzeregiLiczbowe"
+              "icon": "lucide-image",
+              "title": "Dyrektywy alokacji"
             }
           },
           {
-            "id": "fc2d535c7c313a36",
+            "id": "eea4c779d655e4db",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Matematyka/Analiza Matematyczna/Slajdy/AM_05_SzeregiPotegowe.pdf"
+                "file": "AKO/Najważniejsze instrukcje.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "AM_05_SzeregiPotegowe"
+              "icon": "lucide-file",
+              "title": "Najważniejsze instrukcje"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "deskryp",
+                "query": "tag:#Ostatni",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -256,47 +226,50 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "435b7294adf6d078",
+  "active": "db5a86d7934ccf34",
   "lastOpenFiles": [
-    "AKO/Pamięć fizyczna.md",
-    "Contributing.md",
-    "README.md",
-    "AKO/Pamięć.md",
-    "AKO/Proces kompilacji.md",
-    "AKO/Wywoływanie funkcji.md",
-    "AKO/Standardy wywołań.png",
-    "AKO/Prolog.md",
-    "Języki Programowania/Podprogram.md",
-    "AKO/Rejestry.md",
     "AKO/Najważniejsze instrukcje.md",
-    "AKO/Przerwanie systemowe.md",
+    "AKO/Rozkazy na blokach danych.md",
+    "AKO/Rejestry.md",
     "AKO/Instrukcje koprocesora.md",
-    "AKO/Mnemonik.md",
+    "Matematyka/Matematyka Dyskretna/Cykl Hamiltonowski.md",
+    "2025-01-27.md",
+    "AKO/Dyrektywy alokacji.png",
     "AKO/Flagi.md",
-    "AKO/Urządzenia zewnętrzne.md",
+    "AKO/Kodowanie liczb.md",
+    "AKO/Najważniejsze funkcje.md",
+    "PAA/PAA.canvas",
+    "PAA/Algorytm.md",
+    "PAA/bedra.pdf",
+    "PAA/wzorek.md",
+    "PAA/Rekurencja.md",
+    "PAA/Algorytmy rekurencyjne (Giaro).md",
+    "PAA/Złożoność czasowa.md",
+    "Języki Programowania/Organizacja programu.md",
+    "Matematyka/Matematyka Elementarna/Funkcje/Wielomianowe.md",
+    "PAA/Problemy decyzyjne.md",
+    "PAA/Algorytmy grafowe.md",
     "Matematyka/Matematyka Dyskretna/Grafy.md",
+    "PAA/Problemy optymalizacyjne.md",
+    "Matematyka/Matematyka Dyskretna/grafy-Kubale.pdf",
+    "PAA/Klasy złożoności.md",
+    "PAA/Łagodne Wprowadzenie.canvas",
+    "Contributing.md",
+    "PAA/Oszacowania asymptotyczne.md",
+    "PAA/Kolorowanie grafów.md",
+    "Bazy Danych/Bazy Danych.canvas",
+    "Bazy Danych/Bazy Danych Projekt.canvas",
+    "AKO/Przerwanie systemowe.md",
+    "Matematyka/Analiza Matematyczna/Pochodne.md",
+    "AKO/Standardy wywołań.png",
     "MiI/~syncthing~Multimedia i Interfejsy.canvas.tmp",
     "MiI/~syncthing~Ocena interfejsu.md.tmp",
-    "PAA/Algorytmy grafowe.md",
-    "PAA/Graf dość trudny.md",
-    "PAA/PAA.canvas",
-    "Matematyka/Matematyka Dyskretna/grafy-Kubale.pdf",
-    "Matematyka/Analiza Matematyczna/Całki.md",
-    "Matematyka/Analiza Matematyczna/Pochodne.md",
     "Matematyka/Analiza Matematyczna/Zadania/2-Całki.pdf",
     "Matematyka/Analiza Matematyczna/Slajdy/AM_03_RachunekCalkowy.pdf",
     "Matematyka/Analiza Matematyczna/Zadania/1-Pochodne.pdf",
     "Matematyka/Analiza Matematyczna/Zadania/Analiza.pdf",
     "Matematyka/Analiza Matematyczna/Analiza.pdf",
-    "Matematyka/Analiza Matematyczna/Zadania/Untitled.md",
     "Matematyka/Analiza Matematyczna/Zadania/3-Szeregi.pdf",
-    "Matematyka/Analiza Matematyczna/Slajdy/AM_05_SzeregiPotegowe.pdf",
-    "Języki Programowania/Prolog.md",
-    "AKO/Najważniejsze funkcje.md",
-    "AKO/Przekaz argumentów.md",
-    "MiI/Przekształcenia obrazów.md",
-    "AKO/Kodowanie liczb.md",
-    "Bazy Danych/Bazy Danych.canvas",
     "PAA/Krok_Wstecz.png",
     "MiI/Multimedia i Interfejsy.canvas",
     "Języki Programowania/Języki Programowania.canvas",
@@ -305,8 +278,6 @@
     "AKO/Architektura Komputerów.canvas",
     "Grafika Komputerowa/Grafika Komputerowa.canvas",
     "Grafika Komputerowa/CIE-XYZ.png",
-    "PAA/ćwiczenia.webp",
-    "Bazy Danych/Bazy Danych Projekt.canvas",
-    "PAA/Łagodne Wprowadzenie.canvas"
+    "PAA/ćwiczenia.webp"
   ]
 }

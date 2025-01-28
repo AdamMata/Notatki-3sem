@@ -1,4 +1,4 @@
-Problem należy do danej klasy złożoności, jeżeli *najwydajniejszy znany algorytm* rozwiązuje problem w czasie właściwym danej klasie.
+Problem należy do danej klasy złożoności, jeżeli *najwydajniejszy znany [[Algorytm]] rozwiązuje problem w czasie właściwym danej klasie.
 
 ---
 # Problemy nierozstrzygalne

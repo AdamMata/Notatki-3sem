@@ -1,4 +1,4 @@
-# Algorytmy rekurencyjne
+# [[Algorytm|Algorytmy]] [[Rekurencja|rekurencyjne]]
 ## Dziel i rządź
 Dla funkcji złożonej $T(n)$ z krokiem rekurencyjnym $a\cdot T(\frac{n}{b}) + d(n)$ dla liczb $n=b^k$:
 $$T(n) = ca^k + 

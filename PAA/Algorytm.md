@@ -2,7 +2,7 @@
 - poprawność
 - wymagania czasowe
 - wymagania pamięciowe 
-- optymalność czasowa
+- optymalność czasowa - [[Złożoność czasowa]]
 - stabilność numeryczna
 - prostota
 - wrażliwość (odporność na konkretne konfiguracje danych)
