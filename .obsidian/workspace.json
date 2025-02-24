@@ -4,79 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "952ccd8a2aed37a1",
+        "id": "1caf96abd19964e5",
         "type": "tabs",
         "children": [
           {
-            "id": "2ee341f70d19d504",
+            "id": "4b19a8dd123d0f4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AKO/Kodowanie liczb.md",
+                "file": "Cyberbezpieczeństwo/Zagrożenia.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Kodowanie liczb"
+              "title": "Zagrożenia"
             }
           },
           {
-            "id": "6c742524d10531e9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "AKO/AKO_2024_cz_1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "AKO_2024_cz_1"
-            }
-          },
-          {
-            "id": "dbf394aa47db72f7",
+            "id": "9a3152ef96ba75e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AKO/Pamięć.md",
+                "file": "Cyberbezpieczeństwo/Tematy projektów.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Najważniejsze instrukcje"
-            }
-          },
-          {
-            "id": "e4c792458c754324",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "AKO/Dyrektywy alokacji.png"
-              },
-              "icon": "lucide-image",
-              "title": "Dyrektywy alokacji"
-            }
-          },
-          {
-            "id": "eea4c779d655e4db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AKO/Najważniejsze instrukcje.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Najważniejsze instrukcje"
+              "title": "Tematy projektów"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +75,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -107,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo path:AKO  ",
+                "query": "adreso",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,12 +109,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 328.5
   },
   "right": {
     "id": "5897cac6c619bda5",
@@ -195,10 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AKO/Kodowanie liczb.md"
+                "file": "AKO/Organizacja komputera.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kodowanie liczb"
+              "title": "Outline of Organizacja komputera"
             }
           },
           {
@@ -216,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 251.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,67 +211,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ee341f70d19d504",
+  "active": "05cee97be52d54fc",
   "lastOpenFiles": [
-    "AKO/AKO_2024_cz_1.pdf",
-    "AKO/Kodowanie liczb.md",
-    "AKO/Najważniejsze instrukcje.md",
-    "AKO/Rejestry.md",
-    "AKO/Pamięć.md",
-    "AKO/Model programowy.md",
-    "AKO/Register-memory architecture.md",
-    "AKO/Load-store architecture.md",
-    "AKO/Kompilacja.md",
-    "AKO/Dyrektywa ORG.md",
-    "AKO/Licznik lokacji.md",
-    "AKO/Mikroarchitektura.md",
-    "AKO/RISC.md",
-    "AKO/Architektura von Neumanna.md",
-    "AKO/Kodowanie instrukcji.md",
-    "AKO/Cykl rozkazowy.md",
-    "AKO/AKO_2024_cz_2.pdf",
-    "AKO/Dyrektywa OFFSET.md",
-    "AKO/Dyrektywa PTR.md",
-    "AKO/Endian.md",
-    "AKO/Tryb rzeczywisty.md",
-    "AKO/Adresowanie.md",
-    "AKO/AKO_2024_cz_5.pdf",
-    "AKO/Pamięć fizyczna.md",
-    "AKO/Dyrektywa SEGMENT.md",
-    "AKO/Dyrektywy alokacji.png",
-    "AKO/Przerwanie systemowe.md",
-    "AKO/AKO_2024_cz_4.pdf",
-    "AKO/Tablica wektorów przerwań.md",
-    "AKO/AKO_2024_cz_3.pdf",
-    "AKO/Ślad.md",
-    "AKO/Architektura von Neumanna.canvas",
-    "AKO/Standardy wywołań.png",
-    "MiI/~syncthing~Multimedia i Interfejsy.canvas.tmp",
-    "MiI/~syncthing~Ocena interfejsu.md.tmp",
-    "PAA/PAA.canvas",
-    "PAA/Algorytm.md",
-    "PAA/bedra.pdf",
-    "PAA/wzorek.md",
-    "PAA/Rekurencja.md",
-    "PAA/Algorytmy rekurencyjne (Giaro).md",
-    "PAA/Złożoność czasowa.md",
-    "Języki Programowania/Organizacja programu.md",
-    "Matematyka/Matematyka Elementarna/Funkcje/Wielomianowe.md",
-    "PAA/Problemy decyzyjne.md",
-    "PAA/Algorytmy grafowe.md",
-    "Matematyka/Matematyka Dyskretna/Grafy.md",
-    "PAA/Problemy optymalizacyjne.md",
-    "Matematyka/Matematyka Dyskretna/grafy-Kubale.pdf",
-    "Matematyka/Analiza Matematyczna/Zadania/2-Całki.pdf",
+    "3 sem",
+    "Cyberbezpieczeństwo/Malware.md",
+    "3 sem/AKO/Przerwanie systemowe.md",
+    "3 sem/AKO/AKO_2024_cz_4.pdf",
+    "3 sem/AKO/Wyjątki procesora.md",
+    "Cyberbezpieczeństwo/Zagrożenia.md",
+    "3 sem/AKO/AKO_2024_cz_3.pdf",
+    "3 sem/AKO/Organizacja komputera.md",
+    "3 sem/AKO/Instrukcje SSE.md",
+    "3 sem/AKO/Najważniejsze instrukcje.md",
+    "3 sem/AKO/Pamięć podręczna.md",
+    "3 sem/AKO/Instrukcja.md",
+    "3 sem/AKO/Wywoływanie funkcji.md",
+    "3 sem/AKO/Rejestry.md",
+    "3 sem/AKO/Instrukcje AVX.md",
+    "3 sem/AKO/AKO_2024_cz_1.pdf",
+    "3 sem/AKO/AKO_2024_cz_6.pdf",
+    "3 sem/AKO/Register-memory architecture.md",
+    "3 sem/AKO/Model programowy.md",
+    "3 sem/AKO/Architektura procesora.md",
+    "3 sem/AKO/Pamięć fizyczna.md",
+    "3 sem/AKO/Wyrównanie naturalne.md",
+    "AKO/~syncthing~Kompilacja.md.tmp",
+    "AKO/~syncthing~Instrukcje SSE.md.tmp",
+    "3 sem/AKO/Adresowanie.md",
+    "3 sem/AKO/AKO_2024_cz_5.pdf",
+    "3 sem/AKO/Pamięć.md",
+    "3 sem/AKO/Rozkazy na blokach danych.md",
+    "3 sem/AKO/Urządzenia zewnętrzne.md",
+    "3 sem/AKO/Przetwarzanie potokowe.md",
+    "3 sem/AKO/Cykl rozkazowy.md",
+    "3 sem/AKO/Mikroarchitektura.md",
+    "3 sem/AKO/Tryb rzeczywisty.md",
+    "Rejestry AVX.png",
+    "3 sem/AKO/Paleta 13h.png",
+    "Matematyka/Analiza Matematyczna/Slajdy/AM_06_RownaniaRozniczkowe.pdf",
     "Matematyka/Analiza Matematyczna/Slajdy/AM_03_RachunekCalkowy.pdf",
-    "Bazy Danych/Bazy Danych.canvas",
-    "PAA/Krok_Wstecz.png",
-    "MiI/Multimedia i Interfejsy.canvas",
-    "Języki Programowania/Języki Programowania.canvas",
-    "AKO/Architektura Komputerów.sync-conflict-20241025-130207-KMWMDGP.canvas",
-    "AKO/Architektura Komputerów.canvas",
-    "Grafika Komputerowa/Grafika Komputerowa.canvas",
-    "Grafika Komputerowa/CIE-XYZ.png",
-    "PAA/ćwiczenia.webp"
+    "Matematyka/Analiza Matematyczna/Slajdy/AM_04_SzeregiLiczbowe-removed.pdf",
+    "3 sem/AKO/Standardy wywołań.png",
+    "3 sem/MiI/Multimedia i Interfejsy.canvas"
   ]
 }

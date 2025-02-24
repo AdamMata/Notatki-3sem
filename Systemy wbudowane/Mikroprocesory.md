@@ -1,0 +1,1 @@
+> Pojedynczy układ scalony zdolny do wykonania programu.
